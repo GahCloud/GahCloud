@@ -29,5 +29,6 @@ I am fascinated by new technologies and I am constantly learning. Here you can f
 ---
 
 ## 📫 Contact Me
-- [LinkedIn](https://www.linkedin.com/in/gabrielfferreira/)  
-- Email: gabrielferreira2002@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielfferreira/)
+[![Email](https://img.shields.io/badge/Email-gabrielferreira2002@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gabrielferreira2002@gmail.com)
+
