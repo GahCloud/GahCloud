@@ -22,10 +22,7 @@ I’m constantly learning and applying new technologies. Here you can explore my
 ---
 
 ## 📂 Featured Projects
-- [📊 Infra Zabbix + Grafana](https://github.com/GahCloud/infra-zabbix-grafana) – Complete containerized monitoring stack.
-- [⚡ Infra n8n](https://github.com/GahCloud/infra-n8n) – Automation workflows in containers.
-- [🛡 Agents Wazuh](https://github.com/GahCloud/agents-wazuh) – Automated security agent deployment.
-- [📈 Agents Zabbix](https://github.com/GahCloud/agents-zabbix) – Installation and configuration of Zabbix agents.
+
 
 ---
 
