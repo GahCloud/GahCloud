@@ -1,6 +1,6 @@
 Hi, I'm Gabriel Ferreira. Welcome! 👨‍💻👋
 
-I’m a Tech Enthusiast and aspiring Cloud/DevOps professional, focused on Linux, Containers, Automation, and Cloud Infrastructure. I enjoy building solutions that simplify complex problems using tools like Docker, n8n, Zabbix, Wazuh, and AWS. 🚀
+I’m a Tech Enthusiast and aspiring Cloud/DevOps professional, focused on Linux, Containers, Automation, and Cloud Infrastructure. I enjoy building solutions that simplify complex problems using tools like Docker, n8n and AWS. 🚀
 
 I am fascinated by new technologies and I am constantly learning. Here you can find my projects. ⚡
 
