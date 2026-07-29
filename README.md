@@ -18,6 +18,7 @@ I'm constantly learning and applying new technologies. Explore my projects below
       <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white" alt="Docker" /><br/>
       <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black" alt="Linux" /><br/>
       <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white" alt="AWS" /><br/>
+      <img src="https://img.shields.io/badge/-Oracle%20Cloud-F80000?style=flat&logo=Oracle&logoColor=white" alt="Oracle Cloud" /><br/>
       <img src="https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=Terraform&logoColor=white" alt="Terraform" /><br/>
       <img src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white" alt="Cloudflare" /><br/>
       <img src="https://img.shields.io/badge/-n8n-FF7000?style=flat&logo=n8n&logoColor=white" alt="n8n" />
@@ -49,7 +50,7 @@ I'm constantly learning and applying new technologies. Explore my projects below
 
 ## What I do
 
-- **Cloud & DevOps:** AWS, Terraform, Docker, Linux, Cloudflare Tunnel
+- **Cloud & DevOps:** AWS, Oracle Cloud (OCI), Terraform, Docker, Linux, Cloudflare Tunnel
 - **Observability & Security / SIEM:** Grafana, Zabbix, **Wazuh SIEM** (detection, agents, dashboards), logs/audits
 - **Product engineering:** Next.js, Fastify, Prisma, PostgreSQL, REST APIs
 - **Integrations:** Google Calendar OAuth, SMTP/email flows, booking systems, payment simulation
@@ -63,12 +64,16 @@ I'm constantly learning and applying new technologies. Explore my projects below
 | Project | Description |
 |--------|-------------|
 | [**smartresponde**](https://github.com/GahCloud/smartresponde) | B2B scheduling SaaS with Google Calendar, email notifications, and simulated payment (Next.js + Fastify + Docker) |
-| [**aws-observability-stack-grafana-zabbix**](https://github.com/GahCloud/aws-observability-stack-grafana-zabbix) | Observability stack on AWS (Grafana + Zabbix) |
 | [**wazuh-docker**](https://github.com/GahCloud/wazuh-docker) | Wazuh SIEM stack on Docker for Linux (manager, indexer, dashboard) |
-| [**wazuh-iam-docker-compose**](https://github.com/GahCloud/wazuh-iam-docker-compose) | Legacy Wazuh Docker Compose lab (superseded by wazuh-docker) |
+| [**aws-eks-microservices-infra**](https://github.com/GahCloud/aws-eks-microservices-infra) | EKS + VPC + ALB ingress and sample microservice (Terraform + Kubernetes) |
+| [**aws-ecs-fargate-api**](https://github.com/GahCloud/aws-ecs-fargate-api) | ECS Fargate API behind ALB with ECR, CloudWatch, and auto-scaling (Terraform) |
+| [**aws-lambda-event-pipeline**](https://github.com/GahCloud/aws-lambda-event-pipeline) | Serverless pipeline: S3 → Lambda → SQS → DynamoDB (Terraform + Python) |
+| [**aws-ec2-rds-webapp**](https://github.com/GahCloud/aws-ec2-rds-webapp) | 3-tier web app: EC2 ASG + ALB + RDS PostgreSQL + S3 (Terraform) |
+| [**oracle-cloud-k8s-infra**](https://github.com/GahCloud/oracle-cloud-k8s-infra) | OCI OKE Kubernetes cluster with VCN, node pool, and load balancer (Terraform) |
+| [**oracle-cloud-compute-database**](https://github.com/GahCloud/oracle-cloud-compute-database) | OCI Compute + Autonomous Database (ATP) with VCN (Terraform) |
+| [**aws-observability-stack-grafana-zabbix**](https://github.com/GahCloud/aws-observability-stack-grafana-zabbix) | Observability stack on AWS (Grafana + Zabbix) |
 | [**aws-n8n-awscli-docker-terraform**](https://github.com/GahCloud/aws-n8n-awscli-docker-terraform) | n8n + AWS CLI automation with Terraform/Docker |
 | [**locust-load-testing**](https://github.com/GahCloud/locust-load-testing) | Load testing with Locust |
-| [**projeto-bazar**](https://github.com/GahCloud/projeto-bazar) | Application project / marketplace prototype |
 
 ---
 
