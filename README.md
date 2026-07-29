@@ -9,8 +9,36 @@ I'm constantly learning and applying new technologies. Explore my projects below
 
 ## Tools and Technologies
 
-<!-- Keep ALL badges on one line so GitHub does not render each image as its own block (logged-out vs logged-in mismatch) -->
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=Terraform&logoColor=white) ![n8n](https://img.shields.io/badge/-n8n-FF7000?style=flat&logo=n8n&logoColor=white) ![Zabbix](https://img.shields.io/badge/-Zabbix-DF0000?style=flat&logo=Zabbix&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=Grafana&logoColor=white) ![Wazuh](https://img.shields.io/badge/-Wazuh-283593?style=flat&logo=Wazuh&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=GNU-Bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat&logo=fastify&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <strong>Cloud & DevOps</strong><br/><br/>
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white" alt="Docker" /><br/>
+      <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black" alt="Linux" /><br/>
+      <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white" alt="AWS" /><br/>
+      <img src="https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=Terraform&logoColor=white" alt="Terraform" /><br/>
+      <img src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white" alt="Cloudflare" /><br/>
+      <img src="https://img.shields.io/badge/-n8n-FF7000?style=flat&logo=n8n&logoColor=white" alt="n8n" />
+    </td>
+    <td valign="top" width="33%">
+      <strong>Observability & Security</strong><br/><br/>
+      <img src="https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=Grafana&logoColor=white" alt="Grafana" /><br/>
+      <img src="https://img.shields.io/badge/-Zabbix-DF0000?style=flat&logo=Zabbix&logoColor=white" alt="Zabbix" /><br/>
+      <img src="https://img.shields.io/badge/-Wazuh-283593?style=flat&logo=Wazuh&logoColor=white" alt="Wazuh" /><br/>
+      <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=GNU-Bash&logoColor=white" alt="Bash" /><br/>
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white" alt="Python" />
+    </td>
+    <td valign="top" width="33%">
+      <strong>Development</strong><br/><br/>
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" alt="TypeScript" /><br/>
+      <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" /><br/>
+      <img src="https://img.shields.io/badge/-Fastify-000000?style=flat&logo=fastify&logoColor=white" alt="Fastify" /><br/>
+      <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white" alt="PostgreSQL" /><br/>
+      <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=black" alt="React" /><br/>
+      <img src="https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=Prisma&logoColor=white" alt="Prisma" />
+    </td>
+  </tr>
+</table>
 
 ---
 
