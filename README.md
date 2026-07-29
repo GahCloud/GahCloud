@@ -9,9 +9,11 @@ I'm constantly learning and applying new technologies. Explore my projects below
 
 ## Tools and Technologies
 
-<table>
+<div align="center">
+
+<table align="center">
   <tr>
-    <td valign="top" width="33%">
+    <td valign="top" align="center" width="33%">
       <strong>Cloud & DevOps</strong><br/><br/>
       <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white" alt="Docker" /><br/>
       <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black" alt="Linux" /><br/>
@@ -20,7 +22,7 @@ I'm constantly learning and applying new technologies. Explore my projects below
       <img src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white" alt="Cloudflare" /><br/>
       <img src="https://img.shields.io/badge/-n8n-FF7000?style=flat&logo=n8n&logoColor=white" alt="n8n" />
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" align="center" width="33%">
       <strong>Observability & Security</strong><br/><br/>
       <img src="https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=Grafana&logoColor=white" alt="Grafana" /><br/>
       <img src="https://img.shields.io/badge/-Zabbix-DF0000?style=flat&logo=Zabbix&logoColor=white" alt="Zabbix" /><br/>
@@ -28,7 +30,7 @@ I'm constantly learning and applying new technologies. Explore my projects below
       <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=GNU-Bash&logoColor=white" alt="Bash" /><br/>
       <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white" alt="Python" />
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" align="center" width="33%">
       <strong>Development</strong><br/><br/>
       <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" alt="TypeScript" /><br/>
       <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" /><br/>
@@ -39,6 +41,8 @@ I'm constantly learning and applying new technologies. Explore my projects below
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
