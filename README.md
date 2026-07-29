@@ -1,7 +1,7 @@
 # Hi, I'm Gabriel Ferreira. Welcome!
 
-I'm a **Cloud Infrastructure Analyst** focused on Linux, containers, automation, and cloud infrastructure.  
-I build practical solutions with Docker, n8n, AWS, Terraform, and full-stack product workflows.
+I'm a **Cloud Infrastructure Analyst** focused on Linux, containers, automation, cloud infrastructure, and **SIEM**.  
+I build practical solutions with Docker, n8n, AWS, Terraform, **Wazuh**, and full-stack product workflows.
 
 I'm constantly learning and applying new technologies. Explore my projects below.
 
@@ -26,7 +26,8 @@ I'm constantly learning and applying new technologies. Explore my projects below
       <strong>Observability & Security</strong><br/><br/>
       <img src="https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=Grafana&logoColor=white" alt="Grafana" /><br/>
       <img src="https://img.shields.io/badge/-Zabbix-DF0000?style=flat&logo=Zabbix&logoColor=white" alt="Zabbix" /><br/>
-      <img src="https://img.shields.io/badge/-Wazuh-283593?style=flat&logo=Wazuh&logoColor=white" alt="Wazuh" /><br/>
+      <img src="https://img.shields.io/badge/-Wazuh%20SIEM-283593?style=flat&logo=Wazuh&logoColor=white" alt="Wazuh SIEM" /><br/>
+      <img src="https://img.shields.io/badge/-SIEM-0F172A?style=flat&logo=securityscorecard&logoColor=white" alt="SIEM" /><br/>
       <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=GNU-Bash&logoColor=white" alt="Bash" /><br/>
       <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white" alt="Python" />
     </td>
@@ -49,7 +50,7 @@ I'm constantly learning and applying new technologies. Explore my projects below
 ## What I do
 
 - **Cloud & DevOps:** AWS, Terraform, Docker, Linux, Cloudflare Tunnel
-- **Observability & Security:** Grafana, Zabbix, Wazuh, logs/audits
+- **Observability & Security / SIEM:** Grafana, Zabbix, **Wazuh SIEM** (detection, agents, dashboards), logs/audits
 - **Product engineering:** Next.js, Fastify, Prisma, PostgreSQL, REST APIs
 - **Integrations:** Google Calendar OAuth, SMTP/email flows, booking systems, payment simulation
 - **Automation:** n8n, AWS CLI, Bash/Python scripting, Locust load testing
@@ -63,7 +64,8 @@ I'm constantly learning and applying new technologies. Explore my projects below
 |--------|-------------|
 | [**smartresponde**](https://github.com/GahCloud/smartresponde) | B2B scheduling SaaS with Google Calendar, email notifications, and simulated payment (Next.js + Fastify + Docker) |
 | [**aws-observability-stack-grafana-zabbix**](https://github.com/GahCloud/aws-observability-stack-grafana-zabbix) | Observability stack on AWS (Grafana + Zabbix) |
-| [**wazuh-iam-docker-compose**](https://github.com/GahCloud/wazuh-iam-docker-compose) | Wazuh environment with Docker Compose |
+| [**wazuh-docker**](https://github.com/GahCloud/wazuh-docker) | Wazuh SIEM stack on Docker for Linux (manager, indexer, dashboard) |
+| [**wazuh-iam-docker-compose**](https://github.com/GahCloud/wazuh-iam-docker-compose) | Legacy Wazuh Docker Compose lab (superseded by wazuh-docker) |
 | [**aws-n8n-awscli-docker-terraform**](https://github.com/GahCloud/aws-n8n-awscli-docker-terraform) | n8n + AWS CLI automation with Terraform/Docker |
 | [**locust-load-testing**](https://github.com/GahCloud/locust-load-testing) | Load testing with Locust |
 | [**projeto-bazar**](https://github.com/GahCloud/projeto-bazar) | Application project / marketplace prototype |
