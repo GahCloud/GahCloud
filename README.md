@@ -4,7 +4,17 @@
 
 Cloud, DevOps, automation, and full-stack delivery — from infrastructure to customer-facing products.
 
-[LinkedIn](https://www.linkedin.com/in/gabrielfferreira/) · [Email](mailto:gabrielferreira2002@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/gabrielfferreira/">
+    <img src="https://img.shields.io/badge/LinkedIn-gabrielfferreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:gabrielferreira2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gabrielferreira2002%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/GahCloud">
+    <img src="https://img.shields.io/badge/GitHub-GahCloud-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
@@ -58,35 +68,28 @@ I care about practical solutions that are easy to run, explain, and improve.
 
 ---
 
-## GitHub stats
+## GitHub activity
 
-<!-- Fixed-width cards in a table: keeps layout stable even if one image is slow to load -->
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" valign="top" width="50%">
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=GahCloud&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=false&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=24292f&border_color=d0d7de&cache_seconds=1800"
-          width="420"
-          alt="GitHub stats for GahCloud"
-        />
-      </td>
-      <td align="center" valign="top" width="50%">
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=GahCloud&layout=compact&theme=default&hide_border=false&bg_color=ffffff&title_color=0969da&text_color=24292f&border_color=d0d7de&cache_seconds=1800"
-          width="420"
-          alt="Top languages for GahCloud"
-        />
-      </td>
-    </tr>
-  </table>
-</div>
+<p>
+  <img src="https://img.shields.io/github/followers/GahCloud?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/GahCloud?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars" alt="Stars" />
+  <img src="https://img.shields.io/badge/Focus-Cloud%20%7C%20DevOps%20%7C%20Full--stack-2563EB?style=for-the-badge" alt="Focus" />
+</p>
 
 ---
 
 ## Contact
 
-- LinkedIn: [gabrielfferreira](https://www.linkedin.com/in/gabrielfferreira/)
-- Email: [gabrielferreira2002@gmail.com](mailto:gabrielferreira2002@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/gabrielfferreira/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:gabrielferreira2002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Write%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/GahCloud?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  </a>
+</p>
 
 Thanks for visiting — feel free to explore the repositories and reach out.
