@@ -1,59 +1,44 @@
-# Gabriel Ferreira
+# Hi, I'm Gabriel Ferreira. Welcome!
 
-**Cloud Infrastructure Analyst** · Brazil
+I'm a **Cloud Infrastructure Analyst** focused on Linux, containers, automation, and cloud infrastructure.  
+I build practical solutions with Docker, n8n, AWS, Terraform, and full-stack product workflows.
 
-Cloud, DevOps, automation, and full-stack delivery — from infrastructure to customer-facing products.
-
-<p>
-  <a href="https://www.linkedin.com/in/gabrielfferreira/">
-    <img src="https://img.shields.io/badge/LinkedIn-gabrielfferreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:gabrielferreira2002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-gabrielferreira2002%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/GahCloud">
-    <img src="https://img.shields.io/badge/GitHub-GahCloud-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+I'm constantly learning and applying new technologies. Explore my projects below.
 
 ---
 
-## About
+## Tools and Technologies
 
-I work across **cloud infrastructure** and **product engineering**:
-
-- Design and operate AWS environments with Docker, Terraform, and observability stacks
-- Build SaaS workflows (scheduling, payments simulation, email, Google Calendar/OAuth)
-- Support stakeholders end-to-end: demos, troubleshooting, documentation, and validation
-- Automate operational work with n8n, Bash, and Python
-
-I care about practical solutions that are easy to run, explain, and improve.
-
----
-
-## Skills
-
-### Cloud & DevOps
-`AWS` · `Terraform` · `Docker` · `Docker Compose` · `Linux` · `CI/CD basics` · `Cloudflare Tunnel`
-
-### Observability & Security
-`Grafana` · `Zabbix` · `Wazuh` · `Logs & audits` · `IAM awareness`
-
-### Programming & APIs
-`TypeScript` · `JavaScript` · `Python` · `Bash` · `Node.js` · `Fastify` · `Next.js` · `React` · `Prisma` · `PostgreSQL` · `REST APIs` · `Zod`
-
-### Product & Integrations
-`Google Calendar OAuth` · `SMTP / email flows` · `Booking systems` · `Payment simulation (PIX/card)` · `Multi-tenant SaaS`
-
-### Automation
-`n8n` · `AWS CLI` · `Scripting` · `Load testing (Locust)`
-
-### Customer support & delivery
-`Stakeholder demos` · `Troubleshooting` · `Technical documentation` · `User validation` · `Support handoff` · `Incident follow-up`
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=Terraform&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-FF7000?style=flat&logo=n8n&logoColor=white)
+![Zabbix](https://img.shields.io/badge/-Zabbix-DF0000?style=flat&logo=Zabbix&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=Grafana&logoColor=white)
+![Wazuh](https://img.shields.io/badge/-Wazuh-283593?style=flat&logo=Wazuh&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=GNU-Bash&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat&logo=fastify&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
 
 ---
 
-## Featured projects
+## What I do
+
+- **Cloud & DevOps:** AWS, Terraform, Docker, Linux, Cloudflare Tunnel  
+- **Observability & Security:** Grafana, Zabbix, Wazuh, logs/audits  
+- **Product engineering:** Next.js, Fastify, Prisma, PostgreSQL, REST APIs  
+- **Integrations:** Google Calendar OAuth, SMTP/email flows, booking systems, payment simulation  
+- **Automation:** n8n, AWS CLI, Bash/Python scripting, Locust load testing  
+- **Customer delivery:** stakeholder demos, troubleshooting, documentation, user validation  
+
+---
+
+## Featured Projects
 
 | Project | Description |
 |--------|-------------|
@@ -64,32 +49,10 @@ I care about practical solutions that are easy to run, explain, and improve.
 | [**locust-load-testing**](https://github.com/GahCloud/locust-load-testing) | Load testing with Locust |
 | [**projeto-bazar**](https://github.com/GahCloud/projeto-bazar) | Application project / marketplace prototype |
 
-> Pin 4–6 repositories in **Profile → Customize your pins** so they appear at the top of your profile.
-
 ---
 
-## GitHub activity
+## Contact Me
 
-<p>
-  <img src="https://img.shields.io/github/followers/GahCloud?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/GahCloud?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars" alt="Stars" />
-  <img src="https://img.shields.io/badge/Focus-Cloud%20%7C%20DevOps%20%7C%20Full--stack-2563EB?style=for-the-badge" alt="Focus" />
-</p>
-
----
-
-## Contact
-
-<p>
-  <a href="https://www.linkedin.com/in/gabrielfferreira/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:gabrielferreira2002@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Write%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/GahCloud?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
-  </a>
-</p>
-
-Thanks for visiting — feel free to explore the repositories and reach out.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielfferreira/)
+[![Email](https://img.shields.io/badge/Email-gabrielferreira2002@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gabrielferreira2002@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-GahCloud-181717?style=flat&logo=github&logoColor=white)](https://github.com/GahCloud)
