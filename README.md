@@ -58,6 +58,32 @@ I care about practical solutions that are easy to run, explain, and improve.
 
 ---
 
+## GitHub stats
+
+<!-- Fixed-width cards in a table: keeps layout stable even if one image is slow to load -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" valign="top" width="50%">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=GahCloud&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=false&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=24292f&border_color=d0d7de&cache_seconds=1800"
+          width="420"
+          alt="GitHub stats for GahCloud"
+        />
+      </td>
+      <td align="center" valign="top" width="50%">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=GahCloud&layout=compact&theme=default&hide_border=false&bg_color=ffffff&title_color=0969da&text_color=24292f&border_color=d0d7de&cache_seconds=1800"
+          width="420"
+          alt="Top languages for GahCloud"
+        />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## Contact
 
 - LinkedIn: [gabrielfferreira](https://www.linkedin.com/in/gabrielfferreira/)
